@@ -1,0 +1,1 @@
+import {ControlRoom} from "@/components/intelligence/ControlRoom"; export default function Page(){return <ControlRoom/>}
