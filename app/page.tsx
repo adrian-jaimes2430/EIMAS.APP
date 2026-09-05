@@ -1,0 +1,1 @@
+import {EimasExperience} from "@/components/storytelling/EimasExperience"; export default function Page(){return <EimasExperience/>}
