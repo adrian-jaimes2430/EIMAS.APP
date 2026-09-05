@@ -1,0 +1,1 @@
+export function Logo(){return <span className="brand" aria-label="EIMAS"><span className="brand-mark"><i/><i/><i/></span><b>EIMAS</b><small>APP</small></span>}
