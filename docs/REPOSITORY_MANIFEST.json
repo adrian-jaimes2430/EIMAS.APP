@@ -1,0 +1,206 @@
+{
+  "status": "REVIEWED_READY_FOR_REPOSITORY_HANDOFF",
+  "source_archive": "0aa8d720-8101-4154-89aa-fa94f23ff6b4.zip",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 26,
+      "sha256": "493f937b1a3081c22d29c1fded71b2ff598e151e99754c6cdb5b68e81164eab2"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "bytes": 469,
+      "sha256": "15eedf97cd61b1d7b81b273112f62b8bbfd45492090688d23fc94039e762ce65"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 41,
+      "sha256": "425a2c344928d797b4066674e18be4dcb1bd9651d36a38f0f932c155207854aa"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1391,
+      "sha256": "529627432f1dea25d41a6d6c7f2d97b5c826beedf7598830ebbbc84f525a882d"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3115,
+      "sha256": "94c91b2badee251a81e35705b2d46083828681d6e6422f1eb25628da372b6184"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7433,
+      "sha256": "bc80abf38527b267611106caa47b258875a1c875fc02cc7c3bb350950ee6e7ad"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1415,
+      "sha256": "1f1018da1740968e7b999e35ac669c34736bd7dcb36ae5ac78843093d0e1763f"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "bytes": 2085,
+      "sha256": "1427beed98f5adb3a4245ece0add60a77ed1feb3e0c700828db7590c7fd3d0e3"
+    },
+    {
+      "path": "app/control-room/page.tsx",
+      "bytes": 120,
+      "sha256": "f424b3ca57f4577ae822f7ace9df00dbe7791bf9442a31e4463ada2005a8d0cc"
+    },
+    {
+      "path": "app/explore/page.tsx",
+      "bytes": 338,
+      "sha256": "d4a98ae398e84d7ca0fe12fafb5b91af383f6a2cf016f5af3c6290fbb951441d"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 7888,
+      "sha256": "1ab193493230ab4de488a4b599beaeb7401cacadd6c8c6f741781edfe8a506c0"
+    },
+    {
+      "path": "app/layout.tsx",
+      "bytes": 324,
+      "sha256": "16ed2c7b33f623b471fd703a0863a2ff6a659bfaa0893190f26d12cf13a63a7a"
+    },
+    {
+      "path": "app/magi/page.tsx",
+      "bytes": 355,
+      "sha256": "a58e84301c64be6c0f56e1839d6b3bf3544eb9f1ab700b3f16b3e324e065e202"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 132,
+      "sha256": "fc6353432f64032e30b090ba5264c64ffa65869c303f901dbe1b961022a01b13"
+    },
+    {
+      "path": "components/intelligence/ControlRoom.tsx",
+      "bytes": 1653,
+      "sha256": "4d6bf4ec2c28800f4b931061c1a3a15e342cfac81cd5c9b41b2bf6276c3e4b94"
+    },
+    {
+      "path": "components/navigation/Navigation.tsx",
+      "bytes": 612,
+      "sha256": "8afe5ea471d0c2f176ae43510104b06ef08f77d0b6b3634230f3cf9a7c8c3b55"
+    },
+    {
+      "path": "components/storytelling/ActSection.tsx",
+      "bytes": 1297,
+      "sha256": "890a0acafe8bad8b62e7e6098260806df96907792394dbfb654c567240602241"
+    },
+    {
+      "path": "components/storytelling/EimasExperience.tsx",
+      "bytes": 2922,
+      "sha256": "ee0943d35faec7bf60307172a4e0c2ec58aba22d25aa35c8f3ff35ca95367e9d"
+    },
+    {
+      "path": "components/storytelling/StoryProgress.tsx",
+      "bytes": 526,
+      "sha256": "1843c6fb5ac3fdc96c7aedce2f88c5d271b2323bfc1e0944b7a1ac3bbf3debe2"
+    },
+    {
+      "path": "components/ui/Button.tsx",
+      "bytes": 597,
+      "sha256": "3c6f97f9238f80a142c3147084aef0d6520329b3f33fd9fbb09e6a6e0db6661c"
+    },
+    {
+      "path": "components/ui/Logo.tsx",
+      "bytes": 159,
+      "sha256": "5ed239e6095d6fafa345dd52a01c68cafd06dead8d941df0016e076690d77cb0"
+    },
+    {
+      "path": "config/story.ts",
+      "bytes": 2588,
+      "sha256": "5c3e354e61ae2ad9fc078989cea2f9903fffefdda4e6348f4dd0091abf7dc90b"
+    },
+    {
+      "path": "design/DESIGN.md",
+      "bytes": 7847,
+      "sha256": "667687079f4bf554023a859c47341244639fa146218f01edaa0a881c17e2fa5f"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 444,
+      "sha256": "ba72a262058ca599de58ff90dd8b981b1d7ec142f20f436747b0df456326295c"
+    },
+    {
+      "path": "docs/BUILD_PLAN.md",
+      "bytes": 1466,
+      "sha256": "ab6f46bc2aacfb07757cd31c2944a36f710228fe1ee51d334c66c4cb0894d10c"
+    },
+    {
+      "path": "docs/BUILD_REPORT.md",
+      "bytes": 1049,
+      "sha256": "91e1af451f899e4b31e9626761df70baf77eec6e9b6ae67815fed49f56bacbd5"
+    },
+    {
+      "path": "docs/LOCAL_CONTROL_ROOM.md",
+      "bytes": 625,
+      "sha256": "aa0fc80fdc2ab37a4379bcd86406438b17a984f9a008c5d7b62730dac6b9e018"
+    },
+    {
+      "path": "docs/QA.md",
+      "bytes": 1026,
+      "sha256": "5452f630ea1df6dc823db4945f181aebee2d1e6432257e8d7e3198d6920e86af"
+    },
+    {
+      "path": "docs/REPOSITORY_HANDOFF.md",
+      "bytes": 1257,
+      "sha256": "c128731d05e9ad70dd7948e0cca59b56c78945d47ea32bb2f809b2d8fb16f31b"
+    },
+    {
+      "path": "next-env.d.ts",
+      "bytes": 80,
+      "sha256": "a4f294737995c7c5e3f3b322b62fe3fa16450eb53c3bf8545238e9ee686b7775"
+    },
+    {
+      "path": "next.config.ts",
+      "bytes": 141,
+      "sha256": "f51414bab457d865dc4bc8024ea829a68aff931966b83a4d71f45b36571ee7bf"
+    },
+    {
+      "path": "package.json",
+      "bytes": 598,
+      "sha256": "1521aafa96d284bf2689a65f6c0e434cc8170f3f80f138f3bfc91c9ef51c25ad"
+    },
+    {
+      "path": "public/eimas-concept-moodboard.png",
+      "bytes": 2540237,
+      "sha256": "7c0da1372a5cb25fbe607853cda74ad0b349b84449b35b2e7a3404a59d8e8c97"
+    },
+    {
+      "path": "public/eimas-mark.svg",
+      "bytes": 508,
+      "sha256": "939a876de096bfdc96c22deefc0e4acc234f2cd6a3860c18420f48652b9bdcc7"
+    },
+    {
+      "path": "public/iridescent_chrome_sculpture.jpg",
+      "bytes": 235474,
+      "sha256": "40456a4284ebdf8f2224c98c3be4f7075a5e25d677b6611009fc43d8c69524a1"
+    },
+    {
+      "path": "public/logotipo.png",
+      "bytes": 1430782,
+      "sha256": "fce471daafa6eb7dc08a687968bcd217d739ce942649987690028498a285596b"
+    },
+    {
+      "path": "scenes/IntelligenceScene.tsx",
+      "bytes": 3244,
+      "sha256": "79187228a76e6ae290eddcb836ff1ceb3508af5d6cdfbe92a30f54482dfed416"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 639,
+      "sha256": "bab460fb43cdaa6f375b34b36b35c36cbabaa4c17adf8289119dca7edaa1cb20"
+    },
+    {
+      "path": "types/story.ts",
+      "bytes": 348,
+      "sha256": "d5a7072356bff3e2be77c9a1fc7246f25497486f5f6808a67789d8a1d76a0c16"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 22,
+      "sha256": "96fc63ec1ae0dcaba80c5d8a15d1266f1f46bbbf2d7b13a1b5ff3f0569717ba8"
+    }
+  ]
+}
