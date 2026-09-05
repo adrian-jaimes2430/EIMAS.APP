@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function Page(){return <main className="simple-page"><p className="eyebrow">EIMAS / EXPLORE</p><h1>Market intelligence for the next decision.</h1><p className="lede">Product exploration is the next build phase.</p><Link className="button button-primary" href="/">Return to EIMAS</Link></main>}
