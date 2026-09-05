@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function Page(){return <main className="simple-page"><p className="eyebrow">EIMAS / MAGI</p><h1>MAGI intelligence interface.</h1><p className="lede">The visual shell is ready. Agent orchestration is not connected in this phase.</p><Link className="button button-primary" href="/">Return to EIMAS</Link></main>}
