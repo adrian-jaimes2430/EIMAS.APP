@@ -1,0 +1,1 @@
+export type ActId="market"|"signal"|"pattern"|"opportunity"|"engine"|"magi"|"decision"|"system"|"enter"; export type SceneState="market"|"signal"|"pattern"|"opportunity"|"intelligence"; export interface StoryAct{id:ActId;number:string;label:string;title:string;description:string;sceneState:SceneState;kicker:string;cta?:{label:string;href:string}}
