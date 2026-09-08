@@ -1,0 +1,14 @@
+{
+  "project": "EIMAS.APP",
+  "step": "02.3",
+  "status": "PATCH_READY",
+  "runtime_dependencies_added": [],
+  "files": [
+    "scenes/fields/ParticleField.tsx",
+    "scenes/fields/SignalNetwork.tsx",
+    "scenes/fields/IntelligenceCore.tsx",
+    "scenes/IntelligenceScene.tsx",
+    "docs/STEP-02.3.md"
+  ],
+  "github_write_performed": false
+}
